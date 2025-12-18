@@ -17,7 +17,7 @@ O dashboard foi desenvolvido seguindo boas práticas de BI, com separação entr
 ---
 ## 📊 Preview do Dashboard
 
-![Preview do Dashboard de Vendas do Xbox Game Pass](images/imagem-dashboard.jpg)
+![Preview do Dashboard de Vendas do Xbox Game Pass](images/imagem_dashboard.jpg)
 
 ---
 
